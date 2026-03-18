@@ -2316,6 +2316,16 @@ a {
     justify-content: center;
   }
 }
+#custom-html-s #kitform {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+#custom-html-s #kitform .formkit-form[data-uid="a774bc1563"] {
+  width: 100%;
+  max-width: 700px;
+  margin: 0 auto;
+}
 .cid-v0Q8OaHuW0 {
   padding-top: 4rem;
   padding-bottom: 0rem;
