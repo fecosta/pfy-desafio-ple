@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "obrigado.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "nichem5",
       "title": "NicheM5",
@@ -52,7 +52,7 @@
     "versionPublish": "6.1.12",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/pfy-icon-ffffff-branco.png-128x131.png",
-    "mbrsiteDomain": "gts3o9vn58",
+    "mbrsiteDomain": "qj76hhvg2d",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -60,7 +60,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "google-analytics": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-5PD292V8');</script>\n<!-- End Google Tag Manager -->\n\n<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-5PD292V8\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->"
+    "google-analytics": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-5PD292V8');</script>\n<!-- End Google Tag Manager -->\n\n<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-5PD292V8\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->\n\n\n<!-- Meta Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s)\n{if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};\nif(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\nn.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];\ns.parentNode.insertBefore(t,s)}(window, document,'script',\n'https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '2709499579167743');\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=2709499579167743&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Meta Pixel Code -->"
   },
   "pages": {
     "index.html": {
@@ -1850,7 +1850,10 @@
         "title": "PFY | Finalize sua inscrição",
         "order": "1",
         "meta_descr": "Prepare-se para uma semana de formação gratuita e super prática, focada em transformar o modo como você dá aulas de português como língua estrangeira.",
-        "meta_image": "@PROJECT_PATH@/assets/images/pfy-mockups.jpg-1-1280x720.jpg-820x461.jpeg"
+        "meta_image": "@PROJECT_PATH@/assets/images/pfy-mockups.jpg-1-1280x720.jpg-820x461.jpeg",
+        "html_before": "",
+        "footer_custom": "",
+        "header_custom": ""
       },
       "components": [
         {
