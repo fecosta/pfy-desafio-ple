@@ -1317,7 +1317,6 @@ a {
   }
 }
 .cid-tqJ3oa7HGE {
-  background-image: url("../../../assets/images/teacher.jpg-1560x1040.jpeg");
   overflow: hidden;
 }
 .cid-tqJ3oa7HGE .mbr-fallback-image.disabled {
@@ -1331,6 +1330,7 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
+  background-image: url("../../../assets/images/background1.jpg");
 }
 .cid-tqJ3oa7HGE path {
   fill: #ff4c60;
